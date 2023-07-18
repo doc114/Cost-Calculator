@@ -106,6 +106,7 @@ function clearAllNumbers() {
   document.getElementById('rodent-bait-by-block').value = '';
   document.getElementById('miscellaneous-2').value = '';
   document.getElementById('result-calc1').value = '';
+  document.getElementById('percentage-result').value = '';
 }
 
 // ... Existing code ...
